@@ -19,7 +19,7 @@ namespace WhiteWhale {
 		/// <summary>
 		/// Unique identifier of the Company you want to use for the test.
 		/// </summary>
-		static ulong companyId = 2132;
+		static ulong companyId = 4000;
 		/// <summary>
 		/// The WebSocket client
 		/// </summary>
